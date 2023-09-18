@@ -1,0 +1,28 @@
+# Node.js files
+node_modules/
+package-lock.json
+npm-debug.log
+yarn-error.log
+
+# WebDriverIO specific files
+wdio.conf.js
+allure-results/
+test-output/
+errorShots/
+logs/
+reporter-output/
+sauceConnect.log
+
+# Visual Studio Code (VSCode) settings
+.vscode/
+
+# JetBrains IDE settings
+.idea/
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# Test runner reports (you might want to keep these)
+allure-report/
+junit-report/
